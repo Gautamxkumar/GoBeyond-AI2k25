@@ -72,12 +72,17 @@ Gautam Kumar
     <a href="https://i.ibb.co/wFQYstmQ/Screenshot-2025-01-12-160425.png">
         <img src="https://i.ibb.co/wFQYstmQ/Screenshot-2025-01-12-160425.png" alt="image-12" style="border-radius: 10px; height: 170px; border: 0;">
     </a>
-    <a href="https://i.ibb.co/93CTxrXQ/Screenshot-2025-01-12-160445.png">
-        <img src="https://i.ibb.co/93CTxrXQ/Screenshot-2025-01-12-160445.png" alt="image-13" style="border-radius: 10px; height: 170px; border: 0;">
-    </a>
-</div>
+  
 
-<!--     <a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
+  
+<a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a>
+
+
+
+
+
+
+<!--  no need>
 <!--     <a href="https://ibb.co/r5MtJxg"><img src="https://i.ibb.co/zPb5wX1/image-4.png" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
 </div>
 </br>
