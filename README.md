@@ -121,7 +121,7 @@ This project is built with the following major frameworks, libraries, and servic
 
 ## Getting Started
 
-Setting up JourneyJolt is simple — just configure your ```.env``` file, and you're ready to go!
+Setting up  is simple — just configure your ```.env``` file, and you're ready to go!
 
 To get started with JourneyJolt, follow these instructions to set up the project locally on your machine for development and testing.
 
