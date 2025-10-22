@@ -123,7 +123,7 @@ This project is built with the following major frameworks, libraries, and servic
 
 Setting up journey based ai planner is simple — just configure your ```.env``` file, and you're ready to go!
 
-To get started with JourneyJolt, follow these instructions to set up the project locally on your machine for development and testing.
+To get started with Journey planner(GoBeyond-AI), follow these instructions to set up the project locally on your machine for development and testing.
 
 ### Prerequisites
 
@@ -133,7 +133,7 @@ Before you begin, ensure you have the following installed:
 
 ### Services & API Keys Setup
 
-To fully integrate JourneyJolt with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
+To fully integrate Journey-planner(GoBeyond-AI) with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
 
  
 <details>
